@@ -1,0 +1,33 @@
+{
+  "name": "eth-scribe-cli",
+  "version": "1.0.0",
+  "description": "Eth chains inscribe tools by cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylanma1994/eth-scribe-cli.git"
+  },
+  "keywords": [
+    "eth",
+    "scribe",
+    "scription",
+    "cli"
+  ],
+  "author": "dylanma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dylanma1994/eth-scribe-cli/issues"
+  },
+  "homepage": "https://github.com/Dylanma1994/eth-scribe-cli#readme",
+  "dependencies": {
+    "@wagmi/cli": "^2.1.1",
+    "wagmi": "^2.5.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
